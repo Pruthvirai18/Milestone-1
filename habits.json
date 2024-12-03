@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Read a book",
+    "completionData": [
+      {
+        "date": "2024-12-03",
+        "completed": true
+      },
+      {
+        "date": "2024-12-02",
+        "completed": false
+      },
+      {
+        "date": "2024-12-01",
+        "completed": false
+      },
+      {
+        "date": "2024-11-30",
+        "completed": false
+      },
+      {
+        "date": "2024-11-29",
+        "completed": false
+      },
+      {
+        "date": "2024-11-28",
+        "completed": false
+      },
+      {
+        "date": "2024-11-27",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Write a book",
+    "completionData": [
+      {
+        "date": "2024-12-03",
+        "completed": false
+      },
+      {
+        "date": "2024-12-02",
+        "completed": false
+      },
+      {
+        "date": "2024-12-01",
+        "completed": false
+      },
+      {
+        "date": "2024-11-30",
+        "completed": false
+      },
+      {
+        "date": "2024-11-29",
+        "completed": false
+      },
+      {
+        "date": "2024-11-28",
+        "completed": false
+      },
+      {
+        "date": "2024-11-27",
+        "completed": false
+      }
+    ]
+  }
+]
